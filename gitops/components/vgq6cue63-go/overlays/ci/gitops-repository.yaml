@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vgq6cue63-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vgq6cue63-go-gitops
